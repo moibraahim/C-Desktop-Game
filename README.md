@@ -1,4 +1,4 @@
-# C-Sharp-Desktop-Game
+# SpaceWar Game
 Desktop game based on C# .Net WinForms
 
 ![1](https://user-images.githubusercontent.com/60974619/162332890-4a84c066-69ee-4e3a-bea2-371eb96a92a4.PNG)
